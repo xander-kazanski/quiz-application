@@ -1,4 +1,3 @@
-import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import QuizCalendar from './HomePage/calendar-quiz-landing-page-react';
 import ImageQuiz from './QuizePage/image-quiz-component';
